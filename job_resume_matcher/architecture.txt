@@ -1,0 +1,38 @@
+1. Define the Project Scope
+    - Objective: To create a GenAI powered resume and job description matcher.
+    - Input1: User's resume.
+    - Input2: Job description webpage url
+    - Output: Comprehensive comparison report
+
+2. Set Up the Development Environment
+    - Install Python and necessary libraries // (Streamlit, requests, langchain, etc.).
+    - Set up a new Streamlit project.
+
+3. Design the Streamlit UI
+    - Create a simple UI to upload the resume.
+    - Add a button to trigger the job matching process.
+    - Display the matched job results.
+
+4. Implement Resume Parsing
+    - Use libraries like PyPDF2 or docx to parse the resume content. // Using PyMuPDF
+    - Extract key information such as skills, experience, and education. // Using LLM for data cleaning and extraction
+
+5. Fetch Job Listings from Popular Job Sites
+    - Use web scraping (BeautifulSoup) or APIs to fetch job listings from open sites // Using WebBaseLoader from Langchain
+    - Ensure compliance with the terms of service of these job sites. // -__-
+
+6. Implement Job Matching Algorithm
+    - Use a GenAI model (e.g., GPT-3) to match the resume content with job descriptions. // Using free tier "gemini-1.5-flash"
+
+7. Display Results in Streamlit UI
+    - Show the list of matched jobs with details like job title, company, location, and a link to the job posting.
+
+8. Testing and Validation
+    - Test the application with different resumes to ensure accuracy and performance.
+    - Validate the job matching results.
+
+// Addtional Features 
+     - Create a structured output and also add visualizations 
+     - Add interview questions based upon job description and provide answers based upon resume. 
+     - 📈 **Skill Match Score Breakdown** (Bar Chart: % of Matched vs. Missing Skills)  
+     - 📊 **Radar Chart:** (Comparison of required vs. available competencies)  
