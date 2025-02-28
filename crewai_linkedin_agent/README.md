@@ -1,4 +1,4 @@
-# cewai_linkedin_agent_code1
+# crewai_linkedin_agent
 
 This project is a Streamlit application that utilizes the Crew AI agentic framework to process user input and generate responses.
 
