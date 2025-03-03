@@ -1,0 +1,21 @@
+In the context of "With AI agents on the rise, who will hold the power: humans or AI?" the BCG AI Radar 2025 Survey provides critical insights into the evolving dynamics between human oversight and AI capabilities. Here are the relevant points extracted from the source: 
+
+Power Dynamics: Humans vs. AI Agents 
+
+Complementary Roles: Executives overwhelmingly view talent and AI as complementary rather than competitive. Approximately 64% believe that AI should take the lead while humans retain oversight, indicating a collaborative future where both can thrive together. 
+
+Human-Centered Approach: A significant portion, 22%, prioritize human talent, using AI only when necessary. This reflects a recognition of the irreplaceable value of human judgment and creativity in decision-making processes. 
+
+Workforce Expectations: Less than 10% of executives anticipate a decrease in headcount due to automation. Instead, there is a focus on upskilling existing talent to meet new demands created by AI integration. About 68% expect their organizations to increase headcount by adding new skills, emphasizing the need for a workforce that can effectively collaborate with AI. 
+
+Key Leadership Priorities 
+
+Managing Complexity: As AI agents become more prevalent, their complexity requires robust testing and optimization to manage operational and cybersecurity risks effectively. Leaders must navigate this complexity while ensuring that human oversight remains integral to decision-making. 
+
+Realistic Goals: There is an ongoing concern about the hype surrounding AI agents, which can dilute trust and lead to unmet expectations. Leaders are urged to clarify capabilities and set realistic goals for integrating AI into their organizations. 
+
+Conclusion 
+
+As we move towards 2025, the balance of power between humans and AI agents is likely to be characterized by collaboration rather than competition. By prioritizing human talent and fostering a synergistic relationship with AI, organizations can unlock new potentials while managing the complexities introduced by these advanced technologies. The future will depend on how effectively we can integrate these tools into our workflows while maintaining human oversight and creativity at the forefront. 
+
+ 

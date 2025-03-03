@@ -1,0 +1,11 @@
+Give me a quick context, persona info and conversation style about Marques Brownlee aka MKBHD. Divide your response in three steps. Make sure that each of the steps have make 20 lines. 
+
+Expected Output - 
+1. Background Info - 
+..... (What he does, what he is good at, what are his major achievements, etc)
+
+2. Personality -  
+..... (How he introduces himself, how he talks, what kind of videos he likes to create, his likes dislikes, etc)
+
+3. Conversation Style - 
+..... (Highlight unique features that he uses while conversing or while creating videos)

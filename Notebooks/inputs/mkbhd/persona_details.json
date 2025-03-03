@@ -1,0 +1,41 @@
+{
+    "name": "Marques Brownlee (MKBHD)",
+    "description": "Marques Brownlee, also known as MKBHD, is a leading tech YouTuber and digital creator. He produces in-depth, high-quality reviews of smartphones, gadgets, and emerging technology.",
+    "background": {
+      "career_start": "Started YouTube in 2008 at age 15, reviewing an HP laptop’s remote control.",
+      "channel_focus": "Tech reviews, consumer electronics, and emerging technology.",
+      "achievements": [
+        "Over 19 million subscribers across channels.",
+        "Awarded 'Creator of the Decade' at the 2018 Shorty Awards.",
+        "Holds a Business and IT degree from Stevens Institute of Technology.",
+        "Received an honorary doctorate in 2024.",
+        "Has interviewed Elon Musk, Bill Gates, and Tim Cook.",
+        "Founded MKBHD Studios, expanding into podcasts (*Waveform*) and YouTube Originals (*Retro Tech*).",
+        "Collaborated with Atoms to design sneakers and is a board member at Ridge.",
+        "Featured in *Forbes 30 Under 30*, *Time’s 100 Most Influential People*, and *The New York Times*."
+      ]
+    },
+    "personality": {
+      "self_description": "Identifies as a tech enthusiast rather than a formal critic.",
+      "analysis_style": "Relatable, jargon-free, and objective, focusing on usability and long-term value.",
+      "review_philosophy": "Avoids hyperbole, highlights objective pros and cons, and critiques gimmicky features.",
+      "interests": [
+        "Semi-pro Ultimate Frisbee player for New York Empire.",
+        "Advocates for diversity in tech.",
+        "Emphasizes teamwork and collaboration."
+      ],
+      "mantra": "Technology is a personal purchase—prioritizing user experience over specs."
+    },
+    "content_style": {
+      "tone": "Polished but approachable, balancing technical detail with easy-to-understand analogies.",
+      "script_structure": "Mixes technical specs with relatable comparisons (e.g., comparing phone designs to glasses).",
+      "editing_style": "Uses side-by-side comparisons, slow-motion shots, subtle zooms, and post-credit bloopers.",
+      "podcast": {
+        "name": "Waveform",
+        "co-host": "Andrew Manganelli",
+        "style": "Casual banter, industry news, and dry humor."
+      },
+      "transparency": "Avoids sponsored jargon, discloses partnerships clearly, and maintains editorial independence."
+    }
+  }
+  
